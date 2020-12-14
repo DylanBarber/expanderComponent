@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/expanderComponent/static/css/main.103be098.chunk.css",
+    "main.js": "/expanderComponent/static/js/main.0531ccb7.chunk.js",
+    "main.js.map": "/expanderComponent/static/js/main.0531ccb7.chunk.js.map",
+    "runtime-main.js": "/expanderComponent/static/js/runtime-main.2555951c.js",
+    "runtime-main.js.map": "/expanderComponent/static/js/runtime-main.2555951c.js.map",
+    "static/js/2.cd10c548.chunk.js": "/expanderComponent/static/js/2.cd10c548.chunk.js",
+    "static/js/2.cd10c548.chunk.js.map": "/expanderComponent/static/js/2.cd10c548.chunk.js.map",
+    "static/js/3.7408c45b.chunk.js": "/expanderComponent/static/js/3.7408c45b.chunk.js",
+    "static/js/3.7408c45b.chunk.js.map": "/expanderComponent/static/js/3.7408c45b.chunk.js.map",
+    "index.html": "/expanderComponent/index.html",
+    "static/css/main.103be098.chunk.css.map": "/expanderComponent/static/css/main.103be098.chunk.css.map",
+    "static/js/2.cd10c548.chunk.js.LICENSE.txt": "/expanderComponent/static/js/2.cd10c548.chunk.js.LICENSE.txt",
+    "static/media/down-arrow.780d3280.svg": "/expanderComponent/static/media/down-arrow.780d3280.svg",
+    "static/media/up-arrow.80d920fb.svg": "/expanderComponent/static/media/up-arrow.80d920fb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2555951c.js",
+    "static/js/2.cd10c548.chunk.js",
+    "static/css/main.103be098.chunk.css",
+    "static/js/main.0531ccb7.chunk.js"
+  ]
+}
