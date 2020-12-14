@@ -1,0 +1,19 @@
+.rowHeader {
+    display: flex;
+}
+
+.rowName {
+    margin: 0px;
+}
+
+.arrow {
+    width: 20px;
+    cursor: pointer;
+    padding-left: 10px;
+    padding-right: 10px;
+    opacity: .6;
+}
+
+.arrow:hover {
+    opacity: 1;
+}

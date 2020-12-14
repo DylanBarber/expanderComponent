@@ -1,10 +1,26 @@
 import './App.css';
-import GitHubProjects from './components/Projects/Projects';
+import ExpanderContainer from './components/Expander';
 
 function App() {
   return (
     <div className="App">
-      <GitHubProjects />
+      <ExpanderContainer rows={[
+        {
+          id: 1,
+          name: 'TestRowName1',
+          content: 'test1'
+        },
+        {
+          id: 2,
+          name: 'TestRowName2',
+          content: 'test2'
+        },
+        {
+          id: 3,
+          name: 'TestRowName2',
+          content: 'test3'
+        }
+      ]} />
     </div>
   );
 }
