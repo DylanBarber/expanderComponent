@@ -1,0 +1,22 @@
+.projectCardContainer {
+    display: inline-grid;
+    grid-template-columns: auto auto auto auto;
+}
+
+@media only screen and (max-width: 1400px) {
+    .projectCardContainer {
+        grid-template-columns: auto auto auto;
+    }
+}
+
+@media only screen and (max-width: 1050px) {
+    .projectCardContainer {
+        grid-template-columns: auto auto;
+    }
+}
+
+@media only screen and (max-width: 700px) {
+    .projectCardContainer {
+        grid-template-columns: auto;
+    }
+}
